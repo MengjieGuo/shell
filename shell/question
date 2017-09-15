@@ -1,0 +1,1 @@
+1.13 使用子shell  var=$( cat -n text.txt ) 加双引号保留会车换行符 var=$"( cat -n text.txt )" 没起作用？？

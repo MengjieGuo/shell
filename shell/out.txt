@@ -1,0 +1,16 @@
+     1	alias.sh
+     2	arry.sh
+     3	date.sh
+     4	debug.sh
+     5	file-<.sh
+     6	file.sh
+     7	function.sh
+     8	localyum.sh
+     9	math-float.sh
+    10	math.sh
+    11	out.txt
+    12	printf.sh
+    13	read.sh
+    14	shell.sh
+    15	test.txt
+    16	variable.sh
